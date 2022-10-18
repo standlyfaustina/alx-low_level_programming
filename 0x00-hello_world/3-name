@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $FCIFLE -o clsfun
+gcc -c $FCIFLE -o cisfun
